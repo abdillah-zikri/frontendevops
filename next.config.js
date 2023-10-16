@@ -1,6 +1,6 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  output: 'export',
+  // output: 'export',
 //   basePath: '/app', // Set your subdirectory here
 //   assetPrefix: '/app/', // Set your subdirectory here
 }
